@@ -1,1 +1,1 @@
-worker : npm start && node main.js && node dani.js
+worker : npm start && node main.js && node Dhani.js
